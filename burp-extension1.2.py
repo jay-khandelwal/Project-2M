@@ -7,7 +7,7 @@ from javax.swing import JPanel, JButton, JScrollPane, JTextArea, BoxLayout
 
 import csv
 
-from utils import parse_http_request, update_csv, update_json
+from utils import parse_http_request, update_json
 
 class BurpExtender(IBurpExtender, IHttpListener, ITab):
     
