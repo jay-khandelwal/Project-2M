@@ -1,7 +1,5 @@
 '''
-Just for testing burp extension for first time.
-
-Put all the request/response in a CSV in asshole manner
+Added `Request Logger` tab in burp suite to enable/disable this log feature
 '''
 
 import os
